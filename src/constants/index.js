@@ -207,7 +207,7 @@ const experiences = [
     points: [
       "A favourite host for many events in the college.",
       "Hosted for an event in the cultural fest having more than 400 people",
-      "Hosted for You Grow Girl Campain with the chief guest being Navya Naveli Nanda",
+      "Also hosted for many events in the college like wdc, promethean, codechef, nss, csi, etc.",
       "And many more...",
     ],
   },
